@@ -18,7 +18,7 @@
 ```typescript
 const priyanshi = {
   title: "Final Year BCA Student",
-  stack: ["Python", "Java", "JavaScript", "HTML","css", "SQL", "C", "C++"],
+  stack: ["Python", "Java", "JavaScript", "HTML","CSS", "SQL", "C", "C++"],
   launchedProjects: [], // adding soon!
   certifications: [],
   status: "Actively learning & building",
