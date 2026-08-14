@@ -18,7 +18,7 @@
 ```typescript
 const priyanshi = {
   title: "Final Year BCA Student",
-  stack: ["Python", "Java", "JavaScript", "HTML","CSS", "SQL", "C", "C++"],
+  stack: ["Python", "Java", "JavaScript", "HTML", "CSS", "SQL", "C", "C++"],
   launchedProjects: [], // adding soon!
   certifications: [],
   status: "Actively learning & building",
@@ -36,7 +36,7 @@ const priyanshi = {
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=html,CSS" />
 
 **Databases**
 
